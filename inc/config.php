@@ -6,9 +6,9 @@ include 'database.class.php';
 include 'functions.php';
 
 define("DB_HOST", "localhost");
-define("DB_USER", "wontoolb_ai");
-define("DB_PASS", "~%QuW!RRuxIs");
-define("DB_NAME", "wontoolb_toolbox");
+define("DB_USER", "DB_USER");
+define("DB_PASS", "DB_PASS");
+define("DB_NAME", "DB_NAME");
 
 $detect = new Mobile_Detect;
 
